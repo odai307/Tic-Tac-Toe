@@ -12,7 +12,7 @@ let currentPlayer = player1;
 
 const Gameboard = (() => {
 
-    const board = ["", "", "", "", "", "", "", ""]
+    const board = ["", "", "", "", "", "", "", "", ""]
 
     const getBoard = () => {
         return board;
